@@ -1,6 +1,8 @@
 Create a new git project
 
+~~~~
 git init
+~~~~
 
 Add a new file to git project
 
